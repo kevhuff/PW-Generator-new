@@ -1,6 +1,6 @@
 #  Password Generator  #
 ---
-<img src="assets/pwgen.png" width=500 alt="Preview of passworf generator" >
+<img src="assets/pwgen.png" width=500 alt="Preview of password generator" >
 
 ---
 
